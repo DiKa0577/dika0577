@@ -1,4 +1,3 @@
-## Hi there 👋
 ### hello world 👋🏾
 
 ![status](https://api.statusbadges.me/badge/status/190916650143318016?simple=true)
